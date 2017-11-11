@@ -9,7 +9,7 @@ gem 'rails', '~> 5.1.3'
 gem 'puma', '~> 3.7'
 gem 'devise'
 gem 'devise-i18n'
-gem 'russian'
+gem 'rails-i18n'
 
 gem 'twitter-bootstrap-rails'
 
